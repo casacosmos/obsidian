@@ -1,0 +1,51 @@
+---
+created: 2023-04-26T03:53:31-04:00
+updated: 2023-05-06T14:31:45-04:00
+---
+```ad-Comment
+Un estudio etimológico es un análisis del origen y evolución de una palabra o término a lo largo del tiempo. En el caso de la palabra "resiliencia", un estudio etimológico podría incluir los siguientes elementos:
+
+1. Origen de la palabra: El estudio puede comenzar con la investigación del origen de la palabra "resiliencia", incluyendo su raíz y cualquier palabra relacionada en otros idiomas.
+
+2. Evolución semántica: El estudio puede explorar cómo el significado de la palabra "resiliencia" ha evolucionado a lo largo del tiempo, incluyendo su uso en diferentes contextos y disciplinas.
+
+3. Análisis lingüístico: El estudio puede incluir un análisis de la estructura lingüística de la palabra "resiliencia", incluyendo su prefijo, raíz y sufijo.
+
+4. Contexto histórico: El estudio puede explorar el contexto histórico y cultural en el que se originó la palabra "resiliencia", incluyendo su uso en la literatura y la filosofía.
+
+```
+
+Para desarrollar el estudio etimológico de resiliencia se comenzará exponiendo el origen de la palabra incluyendo su raíz y cualquier palabra relacionada en otros idiomas, su evolución semántica, donde se explorará cómo el significado de la palabra ha evolucionado a lo largo del tiempo. incluyendo su uso en diferentes contextos y disciplinas, y finalmente el contexto histórico y cultural en el que se originó la palabra incluyendo us uso en literatura.
+
+El concepto de resiliencia ha sido un tema recurrente tanto en los círculos filosóficos como psicológicos. Sus raíces etimológicas en latín, se derivan de la palabra “resilire” que literalmente se traduce como "bounce-back" en inglés que quiere decir ¨rebotar¨ o ¨recuperarse" . Esto sugiere que la resiliencia se puede entender como una capacidad para recuperarse de circunstancias difíciles y mantener un sentido de equilibrio a pesar de las dificultades enfrentadas.
+
+En el siglo XVI tardío y siglo XVII, varios científicos estudiaron el concepto de resiliencia, incluyendo al ingeniero y arquitecto italiano Vittorio Zonca y al científico inglés Robert Hooke. Zonca, en su tratado "El arte de construir en madera" (1597), discutió la importancia de comprender las propiedades mecánicas de los materiales y describió experimentos para probar la resiliencia de diferentes materiales, incluyendo madera, piedra y metal. Por su parte, Hooke, una figura clave en el desarrollo de la mecánica, escribió en su obra "Micrographia" (1665) sobre varios experimentos para estudiar la resiliencia de los materiales y propuso una teoría de la elasticidad para explicar cómo los materiales se deforman y vuelven a su forma original bajo carga. Ambas obras demuestran la importancia de comprender las propiedades mecánicas de los materiales para diseñar estructuras fuertes y duraderas.
+
+En el lenguaje mas coloquial la palabra resiliencia parece ser asociada a cuánto puede aguantar una persona algún mal. Sin embargo, en muchas ocasiones, no se toma en consideración el estado mental de la persona o su salud. (Robertson, 2019) Por ejemplo, algunas personas podrían llamar a alguien “resiliente” por haber sobrevivido alguna enfermedad o catástrofe natural que dejó todo en su vida destrozado y pudo, como también dicen, “salir al otro lado”. A pesar de eso, la persona no necesariamente ha creado la destreza de poder sobrevivir más adversidades al haberse adaptado y aprendido cómo sobrevivir mejor. Incluso, una persona realmente resiliente es más resistente al trauma mental que puede tolerar y, más aún, aprende a cómo disminuir el daño por adversidades futuras. En otras palabras, una persona puede practicar en volverse más resiliente. Así que, la resiliencia, además de representar la idea de personas capaces de resistir algún tipo de evento, también debe involucrar la capacidad de recuperarse luego del resistir. (Robertson, 2019; Wagnild, 2009)
+
+Durante los últimos años se ha creado la necesidad de estudiar cómo aumentar la cualidad de la resiliencia para poder enfrentarnos a eventos como pandemias, aumento en desastres naturales, pobreza, violencia y ambientes de trabajo hostiles. A medida que se ha ido estudiando el concepto ha aumentado el interés ya que se ha demostrado que la resiliencia juega un gran rol en determinar calidad de vida y bienestar. (Leppin et al., 2014) A la misma vez, se ha encontrado que aquellos que han aumentado su capacidad de resiliencia pueden ofrecer mejores servicios a personas con necesidades. Es decir, así como en reacción en cadena, crear personas más resilientes resulta en el aumento de otras personas resilientes. (Leppin et al., 2014) Existen muchos estudios importantes y materiales de fuente para estudiar el tema de la resiliencia.
+
+Algunas áreas clave de investigación incluyen la psicología del desarrollo, la psicología positiva, la neurobiología, la psicología social y comunitaria y la psicología organizacional. Los estudios de psicología del desarrollo examinan cómo los niños y los adolescentes desarrollan resiliencia ante la adversidad. La psicología positiva estudia cómo las personas pueden desarrollar resiliencia y prosperar frente a la adversidad. La neurobiología estudia los mecanismos neurales y fisiológicos que subyacen a la resiliencia. La psicología social y comunitaria estudia cómo las personas y las comunidades pueden desarrollar resiliencia frente a la adversidad. Finalmente, la psicología organizacional estudia la resiliencia en el lugar de trabajo y cómo las organizaciones pueden fomentar la resiliencia en sus empleados.
+
+La resiliencia, como concepto, tiene varios rasgos esenciales los cuales nos serviran como guias para identificarlo desde el pensamiento estóico. La resiliencia es un proceso multifacético que involucra una amplia gama de rasgos esenciales, los cuales tienen sus raíces en diversas corrientes filosóficas. Estos rasgos trabajan juntos para permitir a las personas enfrentar adversidades y superar desafíos en sus vidas, contribuyendo al desarrollo personal y al bienestar a largo plazo.
+
+
+
+
+Debido a que el concepto fue inventado después del siglo XVII (Mcaslan, 2010, p. 2), está claro que Epícteto no pensaría en términos de resiliencia. 
+
+
+
+Sin embargo, Según  Stephens, los estoicos admitían que el kosmos era un orden racional lo cual implicaba que había un tipo de proporcionalidad de la organización del mismo a diferentes escalas: ¨For the Stoics, this meant that each particular event within the kosmos on a microscopic scale reflects the eminently rational organization of the whole on the macroscopic scale. Epictetus staunchly holds this belief because he holds the orthodox Stoic view that Zeus is the perfectly rational orderer of the kosmos, and that he has constituted the world and ordained the entire course of nature so as to unfold, even down to the smallest occurrence, in complete accordance with reason.” (Stephens, 2007, p. 56)  En otras palabras, aquello que se presente como un tipo de orden a una escala ¨macro¨ debe tener un correlato a escala ¨micro¨. En efecto, si el concepto de resiliencia tiene similitudes con el cosmos en el momento de la conflagración, el mismo fenómeno debe estar reflejado a pequeña escala. El momento de la conflagración comparte los mismos movimientos que el concepto y nos servirá de guia para determinar la conformación del *somata* de resiliencia.
+
+La adaptabilidad engloba varios subrasgos, incluyendo la elasticidad, la transformación, la flexibilidad y la permanencia. Cada uno de estos subrasgos contribuye a la capacidad de un individuo para ajustarse y adaptarse a los cambios y desafíos a lo largo del tiempo.
+
+La regulación emocional abarca la conciencia, el autocuidado y la actitud positiva. Estos subrasgos son fundamentales para mantener la estabilidad emocional y la resiliencia en momentos difíciles.
+
+La autoeficacia es la creencia en la propia capacidad para enfrentar desafíos y superar adversidades. Este rasgo es crucial para mantener la confianza en uno mismo y la resiliencia en momentos difíciles.
+
+El apoyo social implica tener relaciones fuertes y una red de apoyo de personas que brindan aliento y ayuda durante momentos difíciles. Este rasgo es crucial para mantener la resiliencia y el bienestar emocional.
+
+La resolución de problemas engloba la recursividad, la fuerza interior y el temperamento mental. Estos subrasgos son clave para la resolución de problemas y la adaptación a situaciones difíciles.
+
+La esperanza es la creencia en un futuro mejor y la expectativa de que las cosas mejorarán. Este rasgo es esencial para mantener la motivación y la resiliencia en momentos difíciles.
